@@ -1,7 +1,8 @@
 # 👦🏻 About Me:
 📜 I’m currently working on expanding my c#, react and typescript knowledge!<br>
 👯 I’m lookng ito collaborate, just let me know what your working on!<br>
-💥 Check out my repository and look what im working on, all of my repos have pics so you can get a glance direct!
+💥 Check out my repository and look what im working on, all of my repos have pics so you can get a glance direct!<br>
+🎓 Malmo University Student - studying backend C# programming
 
 
 ## 🌐 Socials:
