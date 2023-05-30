@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmalmoer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Check what im working on right now:
-- 1.Booking Application for Nail Salong, this is a real world app for my girlfriend. This app will be deployed on domain soon.
+- 1.Booking Application for Nail Salong, this is a real world app for my girlfriend, with future plan to run it in Sweden, Karlskoga
   -  [Frontend](https://github.com/GitMalmoer/NailsBookingApp-FrontEnd-Typescript-Redux)
   -  [Backend](https://github.com/GitMalmoer/NailsBookingApp-API-Public)
   -  [Live Website](https://nailsbookingapp.netlify.app/)
