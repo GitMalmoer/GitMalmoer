@@ -22,4 +22,4 @@
 - 2.Nails Store, this is Ecommerce Nail store, also developing with future plans to deploy and widely use in Karlskoga, Orebro Sweeden.
   - [Frontend](https://github.com/GitMalmoer/fullstackstore-Frontend-Typescript-Redux)
   - [Backend](https://github.com/GitMalmoer/FullstackStoreAPI-Public)
-  - [Live Website](https://fullstackstoreapi.azurewebsites.net/)
+  - [Live Website](https://nailsstore.netlify.app/)
