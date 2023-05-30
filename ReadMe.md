@@ -13,7 +13,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitmalmoer&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmalmoer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmalmoer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://komarev.com/ghpvc/?username=GitMalmoer&label=PROFILE+VIEWS)
 
 ### ✍️ Check what im working on right now:
 - **1.Booking Application for Nail Salong, this is a real world app for my girlfriend, with future plan to run it in Sweden, Karlskoga**
