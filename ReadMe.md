@@ -22,7 +22,7 @@
   -  [Backend](https://github.com/GitMalmoer/NailsBookingApp-API-Public)
   -  [Live Website](https://nailsbookingapp.netlify.app/)
   -  Technologies used: [React,Redux,Typescript,C#,Asp .Net,Authentication, Authorization, JWT tokens, SMTP(Simple Mail Transfer Protocol), Entity Framework, MSSQL, Bootstrap, Azure, Netlify]
-- **2.Nails Store, this is Ecommerce Nail store, also developing with future plans to deploy and widely use in Karlskoga, Orebro Sweeden.**
+- **2.Nails Store, this is Ecommerce Nail store, also developing with future plans to deploy and widely use in Karlskoga, Orebro Sweden.**
   - [Frontend](https://github.com/GitMalmoer/fullstackstore-Frontend-Typescript-Redux)
   - [Backend](https://github.com/GitMalmoer/FullstackStoreAPI-Public)
   - [Live Website](https://nailsstore.netlify.app/)
