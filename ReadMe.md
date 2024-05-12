@@ -17,14 +17,4 @@
 ![](https://komarev.com/ghpvc/?username=GitMalmoer&label=PROFILE+VIEWS)
 
 ### ✍️ Check what im working on right now:
-- **1.Booking Application for Nail Salong, this is a real world app for my girlfriend, with future plan to run it in Sweden, Karlskoga**
-  -  [Frontend](https://github.com/GitMalmoer/NailsBookingApp-FrontEnd-Typescript-Redux)
-  -  [Backend](https://github.com/GitMalmoer/NailsBookingApp-API-Public)
-  -  [Live Website](https://nailsbookingapp.netlify.app/)
-  -  Removed calendly and added my implementation of booking features and stripe payment.
-  -  Technologies used: [React,Redux,Typescript,C#,Asp .Net,Authentication, Authorization, JWT tokens, SMTP(Simple Mail Transfer Protocol), Stripe payments, Entity Framework, MSSQL, Bootstrap, Azure, Netlify]
-- **2.Nails Store, this is Ecommerce Nail store, also developing with future plans to deploy and widely use in Karlskoga, Orebro Sweden.**
-  - [Frontend](https://github.com/GitMalmoer/fullstackstore-Frontend-Typescript-Redux)
-  - [Backend](https://github.com/GitMalmoer/FullstackStoreAPI-Public)
-  - [Live Website](https://nailsstore.netlify.app/)
-  - Technologies used: [React,Redux,Typescript,C#,Asp .Net,Stripe,Authentication, Authorization, JWT tokens,Entity Framework, MSSQL, Azure, Netlify]
+- **1.Daily Commit Application**
