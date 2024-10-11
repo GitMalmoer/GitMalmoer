@@ -17,4 +17,4 @@
 ![](https://komarev.com/ghpvc/?username=GitMalmoer&label=PROFILE+VIEWS)
 
 ### ✍️ Check what im working on right now:
-- **1.Daily Commit Application** [[DailyCommit](DailyCommit.org)](https://dailycommit.org/)
+- **1.Daily Commit Application**[DailyCommit.org](https://dailycommit.org/)
